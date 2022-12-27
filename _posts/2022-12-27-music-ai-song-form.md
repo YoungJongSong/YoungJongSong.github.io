@@ -1,7 +1,7 @@
 ---
 title: "Song form"
 categories :
-    - "music ai"
+    - "Music"
 ---
 
 먼저 모델이 song form을 구분할 수 있게 만들고 싶다.
