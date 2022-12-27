@@ -2,6 +2,11 @@
 title: "Song form"
 categories :
     - "Music AI"
+tags:
+  - deep learning
+  - Music Structure Segmentation
+comments: true
+
 ---
 
 먼저 모델이 song form을 구분할 수 있게 만들고 싶다.
