@@ -14,9 +14,9 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "git blog"
+      - title: "Git-blog"
         url: "/blog"
-      - title: "anomaly detection"
+      - title: "Anomaly-detection"
         url:  "/anomaly_detection"
-      - title: "music ai"
-        url:  "/music_ai"
+      - title: "Music"
+        url:  "/music"

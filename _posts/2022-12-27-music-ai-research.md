@@ -1,7 +1,7 @@
 ---
 title: "Music ai research 시작"
 categories :
-    - "music ai"
+    - "Music"
 published : false
 ---
 
