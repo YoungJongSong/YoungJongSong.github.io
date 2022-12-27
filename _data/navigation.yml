@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "git blog"
+        url: "/blog"
+      - title: "anomaly detection"
+        url:  "/anomaly_detection"
+      - title: "music ai"
+        url:  "/music_ai"
