@@ -108,6 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >
                     "I'm interested in 
+                    
                     Anomaly detection & Music AI."
   location         : "South Korea"
   email            :
