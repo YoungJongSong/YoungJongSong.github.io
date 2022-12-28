@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "YoungJong Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm interested in \n
-  Anomaly detection & Music AI."
+  bio              : "I'm interested in \n"
+  "Anomaly detection & Music AI."
   location         : "South Korea"
   email            :
   links:

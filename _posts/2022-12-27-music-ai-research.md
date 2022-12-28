@@ -2,7 +2,7 @@
 title: "Music Ai research 시작"
 categories :
     - "Music AI"
-published : false
+#published : false
 ---
 
 Music ai 공부를 시작하려고 한다.
