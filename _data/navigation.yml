@@ -9,7 +9,7 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Tags"
-    url: /tags/
+    url: /tags
 
 sidebar-category:
   - title: "카테고리"
