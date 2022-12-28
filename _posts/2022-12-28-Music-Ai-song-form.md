@@ -24,4 +24,5 @@ song form을 잘 구분해 낸다면 가사 생성 모델이나 노래 생성 �
 pre-chorus part에서는 chorus part의 극대화를 위해 긴장감을 고조시키는 사운드를,
 chorus part에서는 듣기 좋고 힘있는(다른 part보다 소스의 구성이 많아지는), 강렬한 사운드를 생성할 것 이다.
 
-구글에서 좀 찾아보니 Music structure segment라는 분야로 연구가 진행되고있는 것 같다.
+구글에서 좀 찾아보니 Music Structure Segment라는 분야로 연구가 진행되고있는 것 같다.
+Music Sturcture Segment 논문을 찾아 리뷰해야겠다.
