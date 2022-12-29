@@ -1,12 +1,12 @@
 ---
-title: "Song form"
+title: "Create Dataset"
 categories :
     - "Music AI"
 tags:
   - deep learning
   - Music Structure Segmentation
+published : false
 comments: true
-
 ---
 
 먼저 모델이 song form을 구분할 수 있게 만들고 싶다.
